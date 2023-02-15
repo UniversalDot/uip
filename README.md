@@ -7,7 +7,7 @@ People wishing to submit UIPs, first should propose their idea or document to in
 
 | Number | Application | Title | Owner | Status |
 |--------|-------------|-------|-------|--------|
-|        |             |       |       |        |
+|     [1](UIP-0001/UIP-0001.md)   |       Process      |    UIP Guidelines   |   Igor Stojanov    |     Approved   |
 |        |             |       |       |        |
 |        |             |       |       |        |
 |        |             |       |       |        |
